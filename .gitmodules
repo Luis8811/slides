@@ -1,6 +1,3 @@
-[submodule "01-Text_Compression/01-Run_Length_Encoding"]
-	path = 01-Text_Compression/01-Run_Length_Encoding
-	url = git@github.com:vicente-gonzalez-ruiz/Run_Length_Encoding.git
 [submodule "01-Text_Compression/02-String_Compression/01-LZ77"]
 	path = 01-Text_Compression/02-String_Compression/01-LZ77
 	url = git@github.com:vicente-gonzalez-ruiz/LZ77.git
