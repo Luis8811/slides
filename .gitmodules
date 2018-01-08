@@ -34,3 +34,6 @@
 [submodule "01-Text_Compression/03-Symbol_Encoding/07-Unary_Coding"]
 	path = 01-Text_Compression/03-Symbol_Encoding/07-Unary_Coding
 	url = git@github.com:vicente-gonzalez-ruiz/Unary_Coding.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/08-Golomb_Coding"]
+	path = 01-Text_Compression/03-Symbol_Encoding/08-Golomb_Coding
+	url = git@github.com:vicente-gonzalez-ruiz/Golomb_Coding.git
