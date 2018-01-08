@@ -10,3 +10,6 @@
 [submodule "01-Text_Compression/02-String_Compression/03-LZW"]
 	path = 01-Text_Compression/02-String_Compression/03-LZW
 	url = git@github.com:vicente-gonzalez-ruiz/LZW.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/01-Shannon-Fano_Coding"]
+	path = 01-Text_Compression/03-Symbol_Encoding/01-Shannon-Fano_Coding
+	url = git@github.com:vicente-gonzalez-ruiz/Shannon-Fano_Coding.git
