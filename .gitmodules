@@ -16,3 +16,6 @@
 [submodule "01-Text_Compression/03-Symbol_Encoding/02-Huffman_Coding"]
 	path = 01-Text_Compression/03-Symbol_Encoding/02-Huffman_Coding
 	url = git@github.com:vicente-gonzalez-ruiz/Huffman_Coding.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/03-Arithmetic_Coding"]
+	path = 01-Text_Compression/03-Symbol_Encoding/03-Arithmetic_Coding
+	url = git@github.com:vicente-gonzalez-ruiz/Arithmetic_Coding.git
