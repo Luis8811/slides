@@ -22,3 +22,6 @@
 [submodule "01-Text_Compression/03-Symbol_Encoding/04-Probabilistic_Models"]
 	path = 01-Text_Compression/03-Symbol_Encoding/04-Probabilistic_Models
 	url = git@github.com:vicente-gonzalez-ruiz/Probabilistic_Models.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/05-Move_To_Front_Transform"]
+	path = 01-Text_Compression/03-Symbol_Encoding/05-Move_To_Front_Transform
+	url = git@github.com:vicente-gonzalez-ruiz/Move_To_Front_Transform.git
