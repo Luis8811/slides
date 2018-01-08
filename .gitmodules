@@ -4,3 +4,6 @@
 [submodule "01-Text_Compression/02-String_Compression/01-LZ77"]
 	path = 01-Text_Compression/02-String_Compression/01-LZ77
 	url = git@github.com:vicente-gonzalez-ruiz/LZ77.git
+[submodule "01-Text_Compression/02-String_Compression/02-LZ78"]
+	path = 01-Text_Compression/02-String_Compression/02-LZ78
+	url = git@github.com:vicente-gonzalez-ruiz/LZ78.git
