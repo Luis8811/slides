@@ -52,3 +52,6 @@
 [submodule "03-Audio_Coding/03-Humman_Sound_Perception"]
 	path = 03-Audio_Coding/03-Humman_Sound_Perception
 	url = git@github.com:vicente-gonzalez-ruiz/human_sound_perception.git
+[submodule "02-Signal_Digitization/04-Quantization"]
+	path = 02-Signal_Digitization/04-Quantization
+	url = git@github.com:vicente-gonzalez-ruiz/quantization.git
