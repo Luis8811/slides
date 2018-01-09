@@ -43,3 +43,6 @@
 [submodule "01-Text_Compression/10-gzip"]
 	path = 01-Text_Compression/10-gzip
 	url = git@github.com:vicente-gonzalez-ruiz/gzip.git
+[submodule "02-Audio_Coding/01-The_Sound"]
+	path = 02-Audio_Coding/01-The_Sound
+	url = git@github.com:vicente-gonzalez-ruiz/the_sound.git
