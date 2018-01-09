@@ -46,3 +46,9 @@
 [submodule "02-Audio_Coding/01-The_Sound"]
 	path = 02-Audio_Coding/01-The_Sound
 	url = git@github.com:vicente-gonzalez-ruiz/the_sound.git
+[submodule "02-Audio_Coding/02-The_Human_Auditory_System"]
+	path = 02-Audio_Coding/02-The_Human_Auditory_System
+	url = git@github.com:vicente-gonzalez-ruiz/the_human_auditory_system.git
+[submodule "02-Audio_Coding/03-Humman_Sound_Perception"]
+	path = 02-Audio_Coding/03-Humman_Sound_Perception
+	url = git@github.com:vicente-gonzalez-ruiz/human_sound_perception.git
