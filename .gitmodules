@@ -28,9 +28,6 @@
 [submodule "01-Text_Compression/01-Run_Length_Encoding/02-Burrows-Wheeler_Transform"]
 	path = 01-Text_Compression/01-Run_Length_Encoding/02-Burrows-Wheeler_Transform
 	url = git@github.com:vicente-gonzalez-ruiz/Burrows-Wheeler_Transform.git
-[submodule "01-Text_Compression/03-Symbol_Encoding/06-Context-based_Text_Predictive_Transform"]
-	path = 01-Text_Compression/03-Symbol_Encoding/06-Context-based_Text_Predictive_Transform
-	url = git@github.com:vicente-gonzalez-ruiz/Context-based_Text_Predictive_Transform.git
 [submodule "01-Text_Compression/03-Symbol_Encoding/07-Unary_Coding"]
 	path = 01-Text_Compression/03-Symbol_Encoding/07-Unary_Coding
 	url = git@github.com:vicente-gonzalez-ruiz/Unary_Coding.git
@@ -49,3 +46,6 @@
 [submodule "02-Signal_Digitization/04-Quantization"]
 	path = 02-Signal_Digitization/04-Quantization
 	url = git@github.com:vicente-gonzalez-ruiz/quantization.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/02-Context-based_Text_Predictive_Transform"]
+	path = 01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/02-Context-based_Text_Predictive_Transform
+	url = git@github.com:vicente-gonzalez-ruiz/Context-based_Text_Predictive_Transform.git
