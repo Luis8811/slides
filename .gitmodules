@@ -49,3 +49,6 @@
 [submodule "01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/01-Unary_Coding"]
 	path = 01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/01-Unary_Coding
 	url = git@github.com:vicente-gonzalez-ruiz/Unary_Coding.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/04-Golomb-Rice_Coding"]
+	path = 01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/04-Golomb-Rice_Coding
+	url = https://github.com/vicente-gonzalez-ruiz/Golomb-Rice_Coding.git
