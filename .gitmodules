@@ -25,9 +25,6 @@
 [submodule "01-Text_Compression/01-Run_Length_Encoding/02-Burrows-Wheeler_Transform"]
 	path = 01-Text_Compression/01-Run_Length_Encoding/02-Burrows-Wheeler_Transform
 	url = git@github.com:vicente-gonzalez-ruiz/Burrows-Wheeler_Transform.git
-[submodule "01-Text_Compression/03-Symbol_Encoding/07-Unary_Coding"]
-	path = 01-Text_Compression/03-Symbol_Encoding/07-Unary_Coding
-	url = git@github.com:vicente-gonzalez-ruiz/Unary_Coding.git
 [submodule "01-Text_Compression/10-gzip"]
 	path = 01-Text_Compression/10-gzip
 	url = git@github.com:vicente-gonzalez-ruiz/gzip.git
@@ -49,3 +46,6 @@
 [submodule "01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/01-Move_To_Front_Transform"]
 	path = 01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/01-Move_To_Front_Transform
 	url = git@github.com:vicente-gonzalez-ruiz/Move_To_Front_Transform.git
+[submodule "01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/01-Unary_Coding"]
+	path = 01-Text_Compression/03-Symbol_Encoding/05-Gometric_Distribution_Coding/01-Unary_Coding
+	url = git@github.com:vicente-gonzalez-ruiz/Unary_Coding.git
