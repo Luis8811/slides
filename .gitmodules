@@ -37,9 +37,6 @@
 [submodule "01-Text_Compression/03-Symbol_Encoding/08-Golomb_Coding"]
 	path = 01-Text_Compression/03-Symbol_Encoding/08-Golomb_Coding
 	url = git@github.com:vicente-gonzalez-ruiz/Golomb_Coding.git
-[submodule "01-Text_Compression/03-Symbol_Encoding/09-Rice_Coding"]
-	path = 01-Text_Compression/03-Symbol_Encoding/09-Rice_Coding
-	url = git@github.com:vicente-gonzalez-ruiz/Rice_Coding.git
 [submodule "01-Text_Compression/10-gzip"]
 	path = 01-Text_Compression/10-gzip
 	url = git@github.com:vicente-gonzalez-ruiz/gzip.git
