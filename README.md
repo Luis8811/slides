@@ -29,7 +29,7 @@ jupyter nbconvert slides.ipynb --to slides --post serve --ServePostProcessor.por
 # Full (single page)
 jupyter nbconvert slides.ipynb --to slides --template full.tpl
 
-## fill.tpl can be located at:
+## full.tpl can be located at:
 ~/.pyenv/versions/3.6.3/lib/python3.6/site-packages/nbconvert/templates/html/full.tpl
 ```
 
