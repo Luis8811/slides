@@ -9,6 +9,7 @@ git clone --recurse-submodules git@github.com:Sistemas-Multimedia/slides.git
 
 ## Update with:
 ```
+git pull
 git submodule update --remote 
 ```
 
